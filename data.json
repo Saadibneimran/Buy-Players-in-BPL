@@ -1,0 +1,74 @@
+[
+  {
+    "playerName": "Mohammed Saad Ibne Imran Chowdhury",
+    "playerImg": "/src/assets/SAAD.png",
+    "origin": "Bangladesh",
+    "playerType": "All-Rounder",
+    "bowlingStyle": "Right-arm orthodox",
+    "battingStyle": "Right-handed",
+    "price": 500
+  },
+  {
+    "playerName": "Virat Kohli",
+    "playerImg": "/src/assets/SAAD.png",
+    "origin": "India",
+    "playerType": "Batter",
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-handed",
+    "price": 700
+  },
+  {
+    "playerName": "Babar Azam",
+    "playerImg": "/src/assets/SAAD.png",
+    "origin": "Pakistan",
+    "playerType": "Batter",
+    "bowlingStyle": "Right-arm off break",
+    "battingStyle": "Right-handed",
+    "price": 800
+  },
+  {
+    "playerName": "Jasprit Bumrah",
+    "playerImg": "/src/assets/SAAD.png",
+    "origin": "India",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right-arm fast",
+    "battingStyle": "Right-handed",
+    "price": 900
+  },
+  {
+    "playerName": "Rashid Khan",
+    "playerImg": "/src/assets/SAAD.png",
+    "origin": "Afghanistan",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right-arm leg break",
+    "battingStyle": "Right-handed",
+    "price": 200
+  },
+  {
+    "playerName": "Ben Stokes",
+    "playerImg": "/src/assets/SAAD.png",
+    "origin": "England",
+    "playerType": "All-Rounder",
+    "bowlingStyle": "Right-arm fast-medium",
+    "battingStyle": "Left-handed",
+    "price": 100
+  },
+  {
+    "playerName": "Kane Williamson",
+    "playerImg": "/src/assets/SAAD.png",
+    "origin": "New Zealand",
+    "playerType": "Batter",
+    "bowlingStyle": "Right-arm off break",
+    "battingStyle": "Right-handed",
+    "price": 0
+  },
+  {
+    "playerName": "Trent Boult",
+    "playerImg": "/src/assets/SAAD.png",
+    "origin": "New Zealand",
+    "playerType": "Bowler",
+    "bowlingStyle": "Left-arm fast-medium",
+    "battingStyle": "Right-handed",
+    "price": 150
+  }
+]
